@@ -1,0 +1,21 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/wakalni/bin/Debug/netcoreapp2.1
+/wakalni/obj
+/wakalni.Application/bin/Debug/netcoreapp2.1
+/wakalni.Application/obj
+/wakalni.DAL/bin/Debug/netcoreapp2.1
+/wakalni.DAL/obj
+/wakalni.database/bin/Debug/netcoreapp2.1
+/wakalni.database/obj
+/wakalni.Entities/bin/Debug/netcoreapp2.1
+/wakalni.Entities/obj
+/wakalni.services/bin/Debug/netcoreapp2.1
+/wakalni.services/obj
+/wakalni.services.test/bin/Debug/netcoreapp2.1
+/wakalni.services.test/obj
+/wakalni.Tests/bin/Debug/netcoreapp2.1
+/wakalni.Tests/obj
